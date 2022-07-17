@@ -1,10 +1,16 @@
 # qr-code
 
-An Electron application with Vue
+基于electron+vue的二维码生成器
 
 ## Recommended IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+
+## 效果图
+
+
+
 
 ## Project Setup
 
